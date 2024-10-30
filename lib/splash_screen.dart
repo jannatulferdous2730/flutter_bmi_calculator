@@ -45,19 +45,24 @@ class _SplashScreenState extends State<SplashScreen> {
             width: 250,
             height: 200,),
 
-            SizedBox(width: 0,),
+            //SizedBox(width: 0,),
 
-            Text("BMI CALCULATOR", style: GoogleFonts.acme(
-              fontSize: 30,
-              fontWeight: FontWeight.bold,
-              color: Colors.teal,
-            ),),
+            Transform.translate(
+              offset: Offset(0, -40),
+              child: Center(
+                child: Text("CALCULATOR", style: GoogleFonts.acme(
+                  fontSize: 30,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.teal,
+                ),),
+              ),
+            ),
 
-            SizedBox(height: 15,),
+            SizedBox(height: 10,),
 
             LinearProgressIndicator(
               color: Color(0xFF9ACFCF),
-              minHeight: 5,
+              minHeight: 3,
             )
           ],
 
