@@ -2,8 +2,12 @@
 
 A new Flutter project.
 
-![screenshot](assets/images/screenshot.PNG)
-
+![screenshot](assets/images/screenshot.png)
+![screenshot2](assets/images/screenshot2.png)
+![screenshot3](assets/images/screenshot3.png)
+![screenshot4](assets/images/screenshot4.png)
+![screenshot5](assets/images/screenshot5.png)
+![screenshot6](assets/images/screenshot6.png)
 
 ## Getting Started
 
