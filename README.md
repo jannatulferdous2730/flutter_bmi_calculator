@@ -3,11 +3,7 @@
 A new Flutter project.
 
 ![screenshot](assets/images/screenshot.PNG)
-![screenshot2](assets/images/screenshot2.PNG)
-![screenshot3](assets/images/screenshot3.PNG)
-![screenshot4](assets/images/screenshot4.PNG)
-![screenshot5](assets/images/screenshot5.PNG)
-![screenshot6](assets/images/screenshot6.PNG)
+
 
 ## Getting Started
 
